@@ -1,9 +1,17 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = 'loveconsole'
 version = '0.1.2-2'
+-- LuaDist source
 source = {
-  url = "git://github.com/sternold/loveconsole",
-  branch = "master"
+  tag = "0.1.2-2",
+  url = "git://github.com/LuaDist-testing/loveconsole.git"
 }
+-- Original source
+-- source = {
+--   url = "git://github.com/sternold/loveconsole",
+--   branch = "master"
+-- }
 description = {
   summary = 'Console application functionality in Löve2D',
   detailed = [[
